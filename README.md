@@ -188,7 +188,7 @@ All tables have RLS enabled with appropriate policies:
 
 ## Credits
 
-A project made by **Abhishek** and **Ravi**
+A project made by **Kartik**
 
 ## License
 
